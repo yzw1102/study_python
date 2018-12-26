@@ -1,1 +1,1 @@
-# study_python
+# https://github.com/TwoWater/Python
