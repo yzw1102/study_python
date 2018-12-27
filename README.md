@@ -5,5 +5,6 @@
 基本数据类型: test1.py  
 list: test2.py  
 
-- 20181227 second day
-tuple: test3.py
+- 20181227 second day  
+tuple: test3.py  
+dict: test4.py 
