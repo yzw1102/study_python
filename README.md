@@ -9,3 +9,8 @@ tuple: test3.py
 dict: test4.py 
 - 20181228  
 set: test5.py
+- 2018129  
+条件语句: test6.py  
+循环语句: test7.py
+
+---
