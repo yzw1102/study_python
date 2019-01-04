@@ -17,6 +17,10 @@ class UserInfo(object):
     def get_age(self):
         return self._age
 
+class UserInfo2(UserInfo):
+    def __init__(self,name, age, account,sex):
+        super(UserInfo2,self).__init__(name,age,account)
+        self.sex = sex
 
 
 if __name__ == '__main__':
@@ -25,10 +29,17 @@ if __name__ == '__main__':
     print(userInfo.__dict__)
     print(userInfo.getAccount())
     print(userInfo._UserInfo__account)
-
+    print("-----------------------------------------")
     print(UserInfo.lv)
     print(userInfo.get_age)
     print(UserInfo.get_age)
     print(UserInfo.get_name())
     print(userInfo.get_name())
+    print("-----------------------------------------")
+    userInfo2 = UserInfo2('ye2',20,222222,'mail')
+    print(userInfo2.getAccount())
+    print(dir(userInfo2))
+    print(userInfo2.__dict__)
+    print(userInfo2.get_name())
+    print(userInfo2.sex)
 
