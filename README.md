@@ -1,6 +1,7 @@
-# 学习python
-参考 https://github.com/TwoWater/Python  
+# study python
+reference https://github.com/TwoWater/Python  
 
+## part one
 - 20181226  
 基本数据类型: test1.py  
 list: test2.py  
@@ -20,3 +21,6 @@ set: test5.py
 迭代器与生成器1 : test11.py
 - 20190104  
 迭代器与生成器2 : test12.py
+
+## part two
+模块与包
