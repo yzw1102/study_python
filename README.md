@@ -28,3 +28,7 @@ set：test5.py
 
 ## part three  
 面向对象：
+
+- 20190108
+## part four  
+枚举类
