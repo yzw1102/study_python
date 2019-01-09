@@ -33,3 +33,11 @@ set：test5.py
 ## part four  
 - 20190108  
 枚举类
+
+## part five
+- 20190109  
+元类(没有完成)
+
+## part six
+- 20190109  
+多线程 
